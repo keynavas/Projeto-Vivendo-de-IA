@@ -1,0 +1,22 @@
+{
+  "name": "videotoframe",
+  "version": "1.0.0",
+  "description": "Projeto para converter vídeos em frames e visualizá-los de forma interativa",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "video",
+    "frames",
+    "converter",
+    "web"
+  ],
+  "author": "yurin.2000@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/videotoframe.git"
+  }
+}
